@@ -1,0 +1,1 @@
+For the following customer review, identify the sentiment  as either Happy or Unhappy, and determine which of the following four categories the review most relates to: food, service, atmosphere, other. Respond on a single line in exactly the format: sentiment: ____, category: ____.
